@@ -25,6 +25,19 @@
 
 ---
 
+### 📂 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/Rudheer127/F1-Strategy-Predictor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudheer127&repo=F1-Strategy-Predictor&theme=tokyonight&hide_border=true" alt="F1 Strategy Predictor Repo" />
+  </a>
+  <a href="https://github.com/Rudheer127/PR-Persona">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudheer127&repo=PR-Persona&theme=tokyonight&hide_border=true" alt="PR Persona Repo" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
